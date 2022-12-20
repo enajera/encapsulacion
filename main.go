@@ -1,10 +1,13 @@
 package main
 
-import "fmt"
+import (
+	"fmt"
+    "github.com/enajera/encapsulacion/course"
+)
 
 func main() {
 
-	Go := Course{
+	Go := &course.Course{
 		"Go desde Cero",
 		12.34,
 		false,

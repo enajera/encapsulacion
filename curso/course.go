@@ -1,6 +1,7 @@
-package main
+package course
 
 import (
+	"fmt"
 	"github.com/enajera/encapsulacion/course"
 )
 
