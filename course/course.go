@@ -1,9 +1,6 @@
 package course
 
-import (
-	"fmt"
-	"github.com/enajera/encapsulacion/course"
-)
+import ("fmt")
 
 type Course struct {
 	Name    string

@@ -7,7 +7,7 @@ import (
 
 func main() {
 
-	Go := &course.Course{
+	Go := &curso.Course{
 		"Go desde Cero",
 		12.34,
 		false,
